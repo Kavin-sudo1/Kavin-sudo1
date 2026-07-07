@@ -11,8 +11,7 @@
 </p>
 
 ## 👋 About Me
-
-I am a **second-year Computer Science and Engineering student** passionate about **Cybersecurity, Networking, and SOC Operations**. I enjoy learning how cyber threats work, analyzing network traffic, investigating security incidents, and building secure applications.
+I am a cybersecurity enthusiast with a strong interest in **Security Operations Center (SOC)**, **Digital Forensics**, **Network Security**, and **Ethical Hacking**. I continuously enhance my skills through practical projects, cybersecurity labs, and real-world learning.
 
 My interests include **Threat Detection, Incident Response, Digital Forensics, SIEM, Network Security, and Ethical Hacking**. I continuously improve my skills through practical projects, labs, and self-learning while preparing for a career as a **Security Operations Center (SOC) Analyst**.
 
