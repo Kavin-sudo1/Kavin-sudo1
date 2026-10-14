@@ -129,22 +129,6 @@ A student-focused application designed to simplify academic result access throug
 
 ---
 
-## `./github-activity` — My GitHub
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&bg_color=020617&title_color=67E8F9&icon_color=22D3EE&text_color=CBD5E1&rank_icon=github" alt="GitHub statistics"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true&bg_color=020617&title_color=67E8F9&text_color=CBD5E1" alt="Most used programming languages"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&hide_border=true&background=020617&ring=22D3EE&fire=67E8F9&currStreakLabel=67E8F9&sideLabels=CBD5E1&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=94A3B8" alt="GitHub contribution streak"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&bg_color=020617&color=CBD5E1&line=22D3EE&point=67E8F9&area=true&hide_border=true" width="100%" alt="GitHub contribution activity graph"/>
-</p>
-
----
 
 ## `connect --with=me`
 
